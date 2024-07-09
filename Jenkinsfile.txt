@@ -1,0 +1,18 @@
+pipeline {
+  agent any
+  tools {
+    maven 'MAVEN_HOME'
+  }
+
+  stages {
+    stage('Example') {
+      steps {
+
+        withMaven(maven: 'MVN_HOME') {
+
+          bat 'mvn clean test'
+        }
+      }
+    }
+  }
+}

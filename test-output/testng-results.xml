@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="8" total="15" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-09T16:12:50Z" name="Default suite" finished-at="2024-07-09T16:13:10Z" duration-ms="20229">
+    <groups>
+    </groups>
+    <test started-at="2024-07-09T16:12:50Z" name="Default test" finished-at="2024-07-09T16:13:10Z" duration-ms="20229">
+      <class name="com.seleniumProject.tests.ViewTopDealsTest">
+        <test-method is-config="true" signature="initializeWebDriver()[pri:0, instance:com.seleniumProject.tests.ViewTopDealsTest@4a00d9cf]" started-at="2024-07-09T16:12:48Z" name="initializeWebDriver" finished-at="2024-07-09T16:12:50Z" duration-ms="1584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeWebDriver -->
+        <test-method is-config="true" signature="setExtent()[pri:0, instance:com.seleniumProject.tests.ViewTopDealsTest@4a00d9cf]" started-at="2024-07-09T16:12:50Z" name="setExtent" finished-at="2024-07-09T16:12:50Z" duration-ms="83" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExtent -->
+        <test-method is-config="true" signature="openurl()[pri:0, instance:com.seleniumProject.tests.ViewTopDealsTest@4a00d9cf]" started-at="2024-07-09T16:12:50Z" name="openurl" finished-at="2024-07-09T16:12:51Z" duration-ms="839" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openurl -->
+        <test-method signature="testDeals()[pri:0, instance:com.seleniumProject.tests.ViewTopDealsTest@4a00d9cf]" started-at="2024-07-09T16:12:51Z" name="testDeals" finished-at="2024-07-09T16:12:51Z" duration-ms="128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeals -->
+        <test-method is-config="true" signature="attachScreenshot(org.testng.ITestResult)[pri:0, instance:com.seleniumProject.tests.ViewTopDealsTest@4a00d9cf]" started-at="2024-07-09T16:12:51Z" name="attachScreenshot" finished-at="2024-07-09T16:12:51Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testDeals status=SUCCESS method=ViewTopDealsTest.testDeals()[pri:0, instance:com.seleniumProject.tests.ViewTopDealsTest@4a00d9cf] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attachScreenshot -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:com.seleniumProject.tests.ViewTopDealsTest@4a00d9cf]" started-at="2024-07-09T16:12:51Z" name="endTest" finished-at="2024-07-09T16:12:51Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.seleniumProject.tests.ViewTopDealsTest@4a00d9cf]" started-at="2024-07-09T16:13:10Z" name="closeBrowser" finished-at="2024-07-09T16:13:11Z" duration-ms="676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="endReport()[pri:0, instance:com.seleniumProject.tests.ViewTopDealsTest@4a00d9cf]" started-at="2024-07-09T16:13:11Z" name="endReport" finished-at="2024-07-09T16:13:11Z" duration-ms="251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.seleniumProject.tests.ViewTopDealsTest -->
+      <class name="com.seleniumProject.tests.AddProductinCartTest">
+        <test-method is-config="true" signature="openurl()[pri:0, instance:com.seleniumProject.tests.AddProductinCartTest@6736fa8d]" started-at="2024-07-09T16:12:51Z" name="openurl" finished-at="2024-07-09T16:12:51Z" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openurl -->
+        <test-method signature="AddProduct1()[pri:5, instance:com.seleniumProject.tests.AddProductinCartTest@6736fa8d]" started-at="2024-07-09T16:12:51Z" name="AddProduct1" finished-at="2024-07-09T16:12:54Z" duration-ms="3173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddProduct1 -->
+        <test-method is-config="true" signature="attachScreenshot(org.testng.ITestResult)[pri:0, instance:com.seleniumProject.tests.AddProductinCartTest@6736fa8d]" started-at="2024-07-09T16:12:54Z" name="attachScreenshot" finished-at="2024-07-09T16:12:54Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=AddProduct1 status=SUCCESS method=AddProductinCartTest.AddProduct1()[pri:5, instance:com.seleniumProject.tests.AddProductinCartTest@6736fa8d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attachScreenshot -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:com.seleniumProject.tests.AddProductinCartTest@6736fa8d]" started-at="2024-07-09T16:12:54Z" name="endTest" finished-at="2024-07-09T16:12:54Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method is-config="true" signature="openurl()[pri:0, instance:com.seleniumProject.tests.AddProductinCartTest@6736fa8d]" started-at="2024-07-09T16:12:54Z" name="openurl" finished-at="2024-07-09T16:12:54Z" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openurl -->
+        <test-method signature="AddProduct2()[pri:6, instance:com.seleniumProject.tests.AddProductinCartTest@6736fa8d]" started-at="2024-07-09T16:12:54Z" name="AddProduct2" finished-at="2024-07-09T16:12:57Z" duration-ms="3156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddProduct2 -->
+        <test-method is-config="true" signature="openurl()[pri:0, instance:com.seleniumProject.tests.AddProductinCartTest@6736fa8d]" started-at="2024-07-09T16:12:57Z" name="openurl" finished-at="2024-07-09T16:12:57Z" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openurl -->
+        <test-method is-config="true" signature="attachScreenshot(org.testng.ITestResult)[pri:0, instance:com.seleniumProject.tests.AddProductinCartTest@6736fa8d]" started-at="2024-07-09T16:12:57Z" name="attachScreenshot" finished-at="2024-07-09T16:12:57Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=AddProduct2 status=SUCCESS method=AddProductinCartTest.AddProduct2()[pri:6, instance:com.seleniumProject.tests.AddProductinCartTest@6736fa8d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attachScreenshot -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:com.seleniumProject.tests.AddProductinCartTest@6736fa8d]" started-at="2024-07-09T16:12:57Z" name="endTest" finished-at="2024-07-09T16:12:57Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method signature="AddProduct3()[pri:7, instance:com.seleniumProject.tests.AddProductinCartTest@6736fa8d]" started-at="2024-07-09T16:12:57Z" name="AddProduct3" finished-at="2024-07-09T16:13:00Z" duration-ms="3175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddProduct3 -->
+        <test-method is-config="true" signature="attachScreenshot(org.testng.ITestResult)[pri:0, instance:com.seleniumProject.tests.AddProductinCartTest@6736fa8d]" started-at="2024-07-09T16:13:00Z" name="attachScreenshot" finished-at="2024-07-09T16:13:00Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=AddProduct3 status=SUCCESS method=AddProductinCartTest.AddProduct3()[pri:7, instance:com.seleniumProject.tests.AddProductinCartTest@6736fa8d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attachScreenshot -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:com.seleniumProject.tests.AddProductinCartTest@6736fa8d]" started-at="2024-07-09T16:13:00Z" name="endTest" finished-at="2024-07-09T16:13:00Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method is-config="true" signature="openurl()[pri:0, instance:com.seleniumProject.tests.AddProductinCartTest@6736fa8d]" started-at="2024-07-09T16:13:00Z" name="openurl" finished-at="2024-07-09T16:13:01Z" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openurl -->
+        <test-method signature="AddProduct4()[pri:8, instance:com.seleniumProject.tests.AddProductinCartTest@6736fa8d]" started-at="2024-07-09T16:13:01Z" name="AddProduct4" finished-at="2024-07-09T16:13:04Z" duration-ms="3145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddProduct4 -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:com.seleniumProject.tests.AddProductinCartTest@6736fa8d]" started-at="2024-07-09T16:13:04Z" name="endTest" finished-at="2024-07-09T16:13:04Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method is-config="true" signature="openurl()[pri:0, instance:com.seleniumProject.tests.AddProductinCartTest@6736fa8d]" started-at="2024-07-09T16:13:04Z" name="openurl" finished-at="2024-07-09T16:13:04Z" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openurl -->
+        <test-method is-config="true" signature="attachScreenshot(org.testng.ITestResult)[pri:0, instance:com.seleniumProject.tests.AddProductinCartTest@6736fa8d]" started-at="2024-07-09T16:13:04Z" name="attachScreenshot" finished-at="2024-07-09T16:13:04Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=AddProduct4 status=SUCCESS method=AddProductinCartTest.AddProduct4()[pri:8, instance:com.seleniumProject.tests.AddProductinCartTest@6736fa8d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attachScreenshot -->
+        <test-method signature="AddProduct5()[pri:9, instance:com.seleniumProject.tests.AddProductinCartTest@6736fa8d]" started-at="2024-07-09T16:13:04Z" name="AddProduct5" finished-at="2024-07-09T16:13:07Z" duration-ms="3186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddProduct5 -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:com.seleniumProject.tests.AddProductinCartTest@6736fa8d]" started-at="2024-07-09T16:13:07Z" name="endTest" finished-at="2024-07-09T16:13:07Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method is-config="true" signature="attachScreenshot(org.testng.ITestResult)[pri:0, instance:com.seleniumProject.tests.AddProductinCartTest@6736fa8d]" started-at="2024-07-09T16:13:07Z" name="attachScreenshot" finished-at="2024-07-09T16:13:07Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=AddProduct5 status=SUCCESS method=AddProductinCartTest.AddProduct5()[pri:9, instance:com.seleniumProject.tests.AddProductinCartTest@6736fa8d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attachScreenshot -->
+      </class> <!-- com.seleniumProject.tests.AddProductinCartTest -->
+      <class name="com.seleniumProject.tests.HotelBookingTest">
+        <test-method is-config="true" signature="openurl()[pri:0, instance:com.seleniumProject.tests.HotelBookingTest@52815fa3]" started-at="2024-07-09T16:13:07Z" name="openurl" finished-at="2024-07-09T16:13:07Z" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openurl -->
+        <test-method signature="FlightBook()[pri:10, instance:com.seleniumProject.tests.HotelBookingTest@52815fa3]" started-at="2024-07-09T16:13:07Z" name="FlightBook" finished-at="2024-07-09T16:13:10Z" duration-ms="3197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FlightBook -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:com.seleniumProject.tests.HotelBookingTest@52815fa3]" started-at="2024-07-09T16:13:10Z" name="endTest" finished-at="2024-07-09T16:13:10Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method is-config="true" signature="attachScreenshot(org.testng.ITestResult)[pri:0, instance:com.seleniumProject.tests.HotelBookingTest@52815fa3]" started-at="2024-07-09T16:13:10Z" name="attachScreenshot" finished-at="2024-07-09T16:13:10Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=FlightBook status=SUCCESS method=HotelBookingTest.FlightBook()[pri:10, instance:com.seleniumProject.tests.HotelBookingTest@52815fa3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- attachScreenshot -->
+      </class> <!-- com.seleniumProject.tests.HotelBookingTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

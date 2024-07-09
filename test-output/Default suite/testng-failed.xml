@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.seleniumProject.tests.AddProductinCartTest">
+        <methods>
+          <include name="AddProduct2"/>
+          <include name="AddProduct5"/>
+          <include name="AddProduct4"/>
+          <include name="closeBrowser"/>
+          <include name="AddProduct1"/>
+          <include name="endTest"/>
+          <include name="openurl"/>
+          <include name="endReport"/>
+          <include name="setExtent"/>
+          <include name="initializeWebDriver"/>
+          <include name="AddProduct3"/>
+          <include name="attachScreenshot"/>
+        </methods>
+      </class> <!-- com.seleniumProject.tests.AddProductinCartTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

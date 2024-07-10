@@ -1,4 +1,4 @@
-Project Name: Selenium Project(assigned during bench training)
+Project Name:This is jenkins assignment configuration using Selenium Project(assigned during bench training)
 
              Created by: Ratna Madhav
 
